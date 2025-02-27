@@ -16,7 +16,7 @@
  
  🔭 I’m currently working on **Advanced PCB designing** and **fabrication on Carvera and Neoden y11**
 
- 🌱 I’m performing **Debugging, troubleshooting** and **Research and development**
+ 🌱 I’m performing **Debugging, troubleshooting,** **Research and development**
 
 💬 My expertise includes **Firmware development** and **Hardware designing**
 
