@@ -1,10 +1,10 @@
 
 <p align="right">
-  <img src="https://komarev.com/ghpvc/?username=hiibrarahmad&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views">
+  <img src="https://komarev.com/ghpvc/?username=hiMuhammadZakaria&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views">
 </p>
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=700&height=70&duration=6000&lines=its+ibrar+ahmad!+👋;+Embedded+Engineer+(PCB+TEAM+LEAD)!;&color=0e75b6&background=FFFFFF00" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=700&height=70&duration=6000&lines=its+Muhammad+Zakaria!+👋;+Embedded+Engineer+(PCB+TEAM+LEAD)!;&color=0e75b6&background=FFFFFF00" />
 </h1>
 
 
@@ -28,13 +28,13 @@
 
 
 <div align="center"> 
-  <a href="hiibrarahmad@gmail.com">
+  <a href="hiMuhammadZakaria@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
-  <a href="https://linkedin.com/in/hiibrarahmad" target="_blank">
+  <a href="https://linkedin.com/in/hiMuhammadZakaria" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
-  <a href="https://hiibrarahmad.github.io/" target="_blank">
+  <a href="https://hiMuhammadZakaria.github.io/" target="_blank">
      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
   </a>
 </div>
@@ -47,9 +47,9 @@
   <br>
   
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hiibrarahmad/hiibrarahmad/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hiibrarahmad/hiibrarahmad/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/hiibrarahmad/hiibrarahmad/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hiMuhammadZakaria/hiMuhammadZakaria/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hiMuhammadZakaria/hiMuhammadZakaria/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/hiMuhammadZakaria/hiMuhammadZakaria/output/github-contribution-grid-snake.svg">
 </picture>
 
   <br/><br/><br/>
@@ -62,13 +62,13 @@
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <p align="left">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=hiibrarahmad&theme=react&hide_title=false&hide_rank=false&show_icons=false&include_all_commits=false&count_private=true&line_height=23" alt="GitHub stats Card" />
-  <img width="48%" src="https://streak-stats.demolab.com/?user=hiibrarahmad&theme=react&hide_border=false&date_format=M+j%5B%2C+Y%5D&mode=daily&hide_total_contributions=false&hide_current_streak=false&hide_longest_streak=false&card_height=200" alt="GitHub streak Card" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=hiMuhammadZakaria&theme=react&hide_title=false&hide_rank=false&show_icons=false&include_all_commits=false&count_private=true&line_height=23" alt="GitHub stats Card" />
+  <img width="48%" src="https://streak-stats.demolab.com/?user=hiMuhammadZakaria&theme=react&hide_border=false&date_format=M+j%5B%2C+Y%5D&mode=daily&hide_total_contributions=false&hide_current_streak=false&hide_longest_streak=false&card_height=200" alt="GitHub streak Card" />
 </p>
 
 <p align="left">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=hiibrarahmad&theme=react&hide_title=false&layout=compact&langs_count=6&hide_progress=false&card_width=400" alt="GitHub top-langs Card" />
-  <img width="48%" src="https://github-readme-activity-graph.vercel.app/graph?username=hiibrarahmad&theme=react&hide_title=false&area=true" alt="GitHub activity graph" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=hiMuhammadZakaria&theme=react&hide_title=false&layout=compact&langs_count=6&hide_progress=false&card_width=400" alt="GitHub top-langs Card" />
+  <img width="48%" src="https://github-readme-activity-graph.vercel.app/graph?username=hiMuhammadZakaria&theme=react&hide_title=false&area=true" alt="GitHub activity graph" />
 </p>
 
 <hr/>
@@ -78,14 +78,14 @@
 
 **<h3 align="left">Connect with me:</h3>** 
 <p align="left">
-<a href="https://github.com/hiibrarahmad" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?logo=github&logoColor=white" height="28" style="margin-right: 4px"></a> 
-<a href="https://www.instagram.com/hiibrarahmad" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="28" style="margin-right: 4px"></a> 
-<a href="https://www.linkedin.com/in/hiibrarahmad" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="28" style="margin-right: 4px"></a> 
-<a href="https://www.pinterest.com/hiibrarahmad" target="_blank"><img src="https://img.shields.io/badge/Pinterest-%23E60023.svg?style=for-the-badge&&logo=Pinterest&logoColor=white" height="28" style="margin-right: 4px"></a> 
-<a href="https://twitter.com/hiibrarahmad" target="_blank"><img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=X&logoColor=white" height="28" style="margin-right: 4px"></a> 
-<a href="https://www.youtube.com/@hiibrarahmad" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" height="28" style="margin-right: 4px"></a> 
-<a href="https://www.tiktok.com/@hiibrarahmad" target="_blank"><img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" height="28" style="margin-right: 4px"></a> 
-<a href="https://www.reddit.com/user/hiibrarahmad" target="_blank"><img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" height="28" style="margin-right: 4px"></a>
+<a href="https://github.com/hiMuhammadZakaria" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?logo=github&logoColor=white" height="28" style="margin-right: 4px"></a> 
+<a href="https://www.instagram.com/hiMuhammadZakaria" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="28" style="margin-right: 4px"></a> 
+<a href="https://www.linkedin.com/in/hiMuhammadZakaria" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="28" style="margin-right: 4px"></a> 
+<a href="https://www.pinterest.com/hiMuhammadZakaria" target="_blank"><img src="https://img.shields.io/badge/Pinterest-%23E60023.svg?style=for-the-badge&&logo=Pinterest&logoColor=white" height="28" style="margin-right: 4px"></a> 
+<a href="https://twitter.com/hiMuhammadZakaria" target="_blank"><img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=X&logoColor=white" height="28" style="margin-right: 4px"></a> 
+<a href="https://www.youtube.com/@hiMuhammadZakaria" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" height="28" style="margin-right: 4px"></a> 
+<a href="https://www.tiktok.com/@hiMuhammadZakaria" target="_blank"><img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" height="28" style="margin-right: 4px"></a> 
+<a href="https://www.reddit.com/user/hiMuhammadZakaria" target="_blank"><img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" height="28" style="margin-right: 4px"></a>
 </p>
 
 
@@ -148,12 +148,12 @@
   <summary>:zap: GitHub Stats</summary>
 
  <p align="left">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=hiibrarahmad&theme=react&hide_title=false&hide_rank=false&show_icons=false&include_all_commits=false&count_private=true&line_height=23" alt="GitHub stats Card" />
-  <img width="48%" src="https://streak-stats.demolab.com/?user=hiibrarahmad&theme=react&hide_border=false&date_format=M+j%5B%2C+Y%5D&mode=daily&hide_total_contributions=false&hide_current_streak=false&hide_longest_streak=false&card_height=200" alt="GitHub streak Card" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=hiMuhammadZakaria&theme=react&hide_title=false&hide_rank=false&show_icons=false&include_all_commits=false&count_private=true&line_height=23" alt="GitHub stats Card" />
+  <img width="48%" src="https://streak-stats.demolab.com/?user=hiMuhammadZakaria&theme=react&hide_border=false&date_format=M+j%5B%2C+Y%5D&mode=daily&hide_total_contributions=false&hide_current_streak=false&hide_longest_streak=false&card_height=200" alt="GitHub streak Card" />
 </p>
 
 <p align="left">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=hiibrarahmad&theme=react&hide_title=false&layout=compact&langs_count=6&hide_progress=false&card_width=400" alt="GitHub top-langs Card" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=hiMuhammadZakaria&theme=react&hide_title=false&layout=compact&langs_count=6&hide_progress=false&card_width=400" alt="GitHub top-langs Card" />
 </p>
 
 </details>
