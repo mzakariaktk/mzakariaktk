@@ -8,19 +8,17 @@
 </h1>
 
 
-<h3 align="center">Passionate PCB designer driven by innovation and precision.</h3>
+<h3 align="center">Passionate Hardware Design Engineer driven by innovation and precision.</h3>
 
 <br/>
 
 <div align="center">
  
- 🔭 I’m currently working on **Advanced PCB designing** and **fabrication on Carvera**
+ 🔭 I’m currently working on **Advanced PCB designing** and **fabrication on Carvera and Neoden y11**
 
  🌱 I’m performing **Debugging and troubleshooting** and **Research and development**
 
 💬 My expertise includes **Firmware development** and **medical-grade devices**
-
-⚡ Fun fact: **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
 
 👨‍💻 I'm also a **Freelancer** specializing in embedded systems and PCB design.
  
