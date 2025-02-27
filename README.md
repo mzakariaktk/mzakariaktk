@@ -18,7 +18,7 @@
 
  🌱 I’m performing **Debugging and troubleshooting** and **Research and development**
 
-💬 My expertise includes **Firmware development** and **medical-grade devices**
+💬 My expertise includes **Firmware development** and **Hardware designing**
 
 👨‍💻 I'm also a **Freelancer** specializing in embedded systems and PCB design.
  
