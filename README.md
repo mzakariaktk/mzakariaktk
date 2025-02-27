@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @mzakariaktk
+- 👋 Hi, I’m Muhammad Zakaria
 - 👀 I’m interested in Embedded Systems and PCB designing
 - 🌱 I’m currently learning Multi-layer PCB design and fabrication
 - 📫 How to reach me mzakariakhattak@gmail.com
